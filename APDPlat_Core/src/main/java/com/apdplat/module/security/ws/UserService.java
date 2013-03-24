@@ -1,7 +1,7 @@
 package com.apdplat.module.security.ws;
 
 /**
- *
+ *用户认证服务接口
  * @author ysc
  */
 import com.apdplat.module.security.model.User;

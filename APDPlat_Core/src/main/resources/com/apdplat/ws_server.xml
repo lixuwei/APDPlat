@@ -5,5 +5,5 @@
 	default-lazy-init="true">
             
 	<!-- 提供用户认证的web service  -->
-        <jaxws:endpoint id="userServiceEndpoint" implementor="#userService" address="/UserService" />
+        <jaxws:endpoint id="userServiceEndpoint" implementor="#userServiceImpl" address="/UserService" />
 </beans>

@@ -1,4 +1,4 @@
-APDPlat_Core/target/
+﻿APDPlat_Core/target/
 APDPlat_Core/.settings/
 APDPlat_Core/.classpath
 APDPlat_Core/.project
@@ -13,3 +13,4 @@ APDPlat_Web/.project
 .settings/
 .classpath
 .project
+target/
